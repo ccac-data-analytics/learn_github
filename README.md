@@ -183,7 +183,6 @@ And let's go see what shows up on the public repo!
 
 ## <span id="teachers">License and information for instructors</span>
 
-## <span id="teachers">Information for teachers</span>:
 This is meant to be a relatively comprehensive introduction to the use of GitHub on the command line, though parts of it are built assuming [exposure in another course]() and would have to be modified to use elsewhere. (I'll also accept pull requests with higher-quality images. ;))
 
 The lesson was designed to work remotely, with learners on a variety of different systems. (And it was built in spring 2020, which is why the visuals and videos are all very low production value.)
