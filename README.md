@@ -1,6 +1,8 @@
 # GitHub "basics" 
 (This is a lot more than the basics!)
 
+License info and info for [instructors](#teachers) is at the bottom of the file.
+
 Agenda:
 1. [First steps](#first_steps)
 1. [One person, one repo, multiple machines (or directories), not worrying about branches yet](#simple)
@@ -178,3 +180,12 @@ And let's go see what shows up on the public repo!
 
 * If you really get into a bind, with merge conflicts in binary files or Git just acting super weird, and there's nothing vital on your local repository, you can remove it (**just the local copy!**) and re-clone. For that matter, if there *is* something vital, and you know what it is, you can move it to another directory and then delete the local repository/directory. I've done that more often than someone teaching you Git should probably admit to, but there we are.
 * If you remove a file and want Git to forget about it, the command is `git rm filename`
+
+## <span id="teachers">License and information for instructors</span>
+
+## <span id="teachers">Information for teachers</span>:
+This is meant to be a relatively comprehensive introduction to the use of GitHub on the command line, though parts of it are built assuming [exposure in another course]() and would have to be modified to use elsewhere. (I'll also accept pull requests with higher-quality images. ;))
+
+The lesson was designed to work remotely, with learners on a variety of different systems. (And it was built in spring 2020, which is why the visuals and videos are all very low production value.)
+
+This is all my own (Coral Sheldon-Hess's) work. It is all [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) licensed, and I would ask that you please let me know if you're using it&mdash;because it makes me happy to know when I've created a tutorial someone else finds useful! 
